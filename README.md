@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mushkirfauz
-- 👀 Interested in Front end Web development.
-- 🌱 Currently learning back-end development skills.
+- 👀 UI/UX Designer.
+- 🌱 Currently learning Front-end development skills.
 - 💞️ Looking to collaborate on projects where i can enhance my skills.
 - 📫 How to reach me (Mushkerfauz@gmail.com)
 
